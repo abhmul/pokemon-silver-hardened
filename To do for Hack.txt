@@ -4,3 +4,4 @@ Add recolored Weavile backsprites
 Add recolored Magmortar backsprites
 Fix recoloring of Garchomp
 Fix recoloring for all other sprites not recolored
+Bug: "How to catch pokemon intro" breaks game
