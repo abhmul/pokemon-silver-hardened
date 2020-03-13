@@ -171,3 +171,6 @@ Version 1.08.1 Changelog
 -Fixed bug where all extra pokemon introduced to the game have special defence of 119
 -Rebalanced Clair's team (Gyarados, Dragonite, Charizard, Kingdra, Kingdra, Garchomp)
 -Replaced Rhyperior Sprite
+
+Version 1.09
+- Fixed bug with Gible's sprite

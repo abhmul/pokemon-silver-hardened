@@ -1,0 +1,2 @@
+stat data: 0x51b0b
+gible pokemon data: 0x52deb
