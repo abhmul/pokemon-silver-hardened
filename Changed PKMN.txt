@@ -1,0 +1,42 @@
+Delibird  => Mamoswine
+Dunsparce => Magmortar
+Sunkern   => Magnezone
+Sunflora  => Togekiss
+Corsola   => Weavile
+Doduo     => Honchkrow
+Dodrio    => Mismagius
+Chikorita => Gible
+Bayleaf   => Gabite
+Meganium  => Garchomp
+Qwilfish  => Yanmega
+Bellossom => Rhyperior
+Stantler  => Electivire
+Tauros    => Porygon-Z
+
+Could find WEAVILE if fish with good or super rod in Cherrygrove City, Route 34, Olivine City, Route 40, Route 41, Cianwood City
+Could find YANMEGA if fish with good or super rod on Route 32
+
+
+To Do:
+-Remove Dunsparce from Dark Cave
+-Remove Stantler from Route 36, Route 37
+-Maybe evolve some 4th Gym trainer's Misdreavus into Mismagius
+-Remove Bird Keeper Toby's Doduos
+-Remove Tauros from Route 38 (Normal and Swarm), Route 39
+-Remove Delibird from Ice Cave
+-Remove Fisherman Chris's Qwilfish
+-Remove Team Rocket Executive's (Final) Meganium and evolved Rhydon
+-Maybe evolve Pryce's Piloswine into a Mamoswine
+-Remove Cool Trainer Cybil's Bellossom
+-Maybe evolve PokeManiac Zach's Rhyhorn
+-Maybe evolve Scientist Marc's Magnemite into Magnezone
+-Maybe evolve Scientist Rich's Porygon into Porygon-Z
+-Maybe evolve Cool Trainer Ryan's Electabuzz into an Electavire
+
+3997a
+
+39964
+
+39946
+
+399b6

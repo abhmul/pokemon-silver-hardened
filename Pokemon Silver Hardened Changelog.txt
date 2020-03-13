@@ -1,0 +1,173 @@
+--Pokemon Silver Hardened--
+Credits: 
+	-abhmul(creator)
+	-Bynine(spriter)
+	-Azertommy(spriter)
+	-kreestanala (spriter)
+Version 0.21 Changelog:
+-Horsea, seadra, and Kingdra now learn Outrage at lv.50, lv.55, and lv.60 respectively.
+-Larvitar, Pupitar, and Tyranitar now learn Outrage at lv.53, lv.59, and lv.65 respectively.
+-Completed releveling of Route 36 trainers and wild pokemon
+-Completed releveling of Ecruteak city events, Burned Tower wild pokemon, and Gym
+
+Version 0.22 Changelog:
+-Added two Team Rocket members blocking Route 42 until Jasmine is beaten
+-Raised the level of the Kimino girls Eevee evolutions from Lv.35 to Lv.38
+
+Version 0.23 Changelog:
+-Replaced Bugsy's, Whitney's, and Morty's team's moves with Smogon movesets
+-Replaced Bugsy's Scyther with a Scizor
+
+Version 0.30 Changelog:
+-Releveled for Routes 38,39,40,41, And Cianwood City
+-Releveled for the Lighthouse
+-Releveled Chuck and Jasmine
+
+Version 0.40 Changelog:
+-Added Blissey to Whitney's team and lowered all pokemon by 1 level
+-Added Machamp and Primeape to Chuck's team and lowered pokemon by 2 levels
+-Added Skarmory and Forretress to Jasmine's team and lowered pokemon by 3 levels
+-Established Gym Leader Pkmn Count pattern: 1st=2Pkmn 2nd=3Pkmn 3rd=3Pkmn 4th=4Pkmn 5th=4Pkmn 6th=5Pkmn 8th=6Pkmn
+
+Version 0.41 Changelog:
+-Fixed bug where TR members wouldn't disappear after Jasmine was defeated
+-Added old man in Violet City to block the gym until HM01 was recieved
+-Added girl in Ecruteak City to block gym until HM03 was recieved
+
+Version 0.50 Changelog:
+-Seadra now also evolves into Kingdra at lvl 52
+-Dragonite learns Aeroblast at lvl 84
+-Kingdra learns hyperbeam at lvl 92
+-Releveled wild pkmn for Route 42, Mt. Morter(1 and 2), Route 43, and Lake of Rage
+-Releveled Red Gyrados in Lake of Rage from Lvl 30 to Lvl 48
+-Releveled all trainers on Route 42, Route 43, and Lake of Rage
+-Releveled all Team Rocket in Mahogany
+-Releveled Mahogony Gym and Gym Leader
+-Added Lapras and cloyster to Pryce's team
+-Added workers on Route 44 to block passage until Team Rocket is defeated in Goldenrod because of "landslide".
+
+Version 0.51 (nonexistent) Changelog:
+-Changed Mahogany Team Rocket Grunt's Crobats to Golbats
+-Reduced Pryce's Pokemon levels by 2
+
+Version 0.60 Changelog:
+-Releveled all Team Rocket in Radio Tower and Goldenrod Underground
+-Releveled all Burglers in Goldenrod Underground
+-Redid final Team Rocket Boss team. Now includes: Meganium Lv.60, Weezing Lv.61, Houndoom Lv.60, Houndoom Lv.63, Rhydon Lv.61, Feraligator Lv.60.
+-Also gave Team Rocket Boss pokemon items Leftovers, Poison Barb, Leftovers, Charcoal, Quick Claw, and Leftovers respectively.
+
+Version 0.70 Changelog:
+Bug Fixes:
+-When battle commences against Twins or Elite Four Karen the game crashes
+Changes:
+-Replaced Pokemon on the left with the Pokemon on the right:
+	Delibird  => Mamoswine
+	Dunsparce => Magmortar
+	Sunkern   => Magnezone
+	Sunflora  => Togekiss
+	Corsola   => Weavile
+	Doduo     => Honchkrow
+	Dodrio    => Mismagius
+	Chikorita => Gible
+	Bayleaf   => Gabite
+	Meganium  => Garchomp
+	Qwilfish  => Yanmega
+	Bellossom => Rhyperior
+	Stantler  => Electivire
+	Tauros    => Porygon-Z
+-Removed Dunsparce from Dark Cave
+-Removed Stantler from Route 36, Route 37
+-Evolved Morty's Misdreavus into Mismagius
+-Removed Bird Keeper Toby's Doduos and replaced with Fearows
+-Removed Tauros from Route 38 (Normal and Swarm), Route 39
+-Removed Delibird from Ice Cave
+-Removed Fisherman Chris's Qwilfish and replaced with Octillery
+-Evolved Pryce's Piloswine into a Mamoswine
+-Removed Cool Trainer Cybil's Bellossom and replaced with Vileplume
+-Evolved PokeManiac Zach's Rhyhorn into Rhyperior
+-Evolved Scientist Marc's Magneton into Magnezone
+-Evolved Scientist Rich's Porygon into Porygon-Z
+-Evolved Cool Trainer Ryan's Electabuzz into an Electavire
+-Replaced Team Rocket Final Boss Meganium with Kingdra
+-Replaced Team Rocket Final Boss Rhydon with Rhyperior
+-Removed Horsea as a starter and replaced it with Gible
+-Removed Horsea, Seadra, and Kingdra from Silver's[1] team and replaced it with Gible, Gabite, and Garchomp respectively
+-Evolved Sneasal on some Silver[1] teams and replaced it with Weavile
+-Changed Pokemon moves of the starter PKMN on Silver[1] teams
+-Releveled Whirl Islands, Route 44, Ice Path, Blackthorn City, Dragon's Den, and Route 45
+-Releveled Trainers on Route 44, Blackthorn Gym, and Route 45
+-Releveled Lugia in Whirl Islands
+-Remade Clair's team and now consists of Dragonite, Dragonite, Garchomp, Kingdra, Kingdra, Garchomp
+Known Bugs:
+-Could find WEAVILE if fish with good or super rod in Cherrygrove City, Route 34, Olivine City, Route 40, Route 41, Cianwood City
+-Could find YANMEGA if fish with good or super rod on Route 32
+
+Version 0.71 Changelog:
+-Fixed bug where Dragonite learned wrong TM's
+-Releveled Tohjo Falls, Route 27, and Route 26
+-Releveled trianers on Route 26
+-Forced Garchomp family to learn moves later in order to even out difficulty with other starters.
+-Gave Gible Twister at level 8
+-Allowed Venusaur to learn TM Sludge Bomb
+
+Version 0.72 Changelog:
+-Fixed bug where Twins had pokemon of Pokefans (Female)
+
+Version 0.73 Changelog:
+-Enlarged Gabite's backsprite
+-Fixed color mismatch bug for Gabite's backsprite
+
+Version 0.74 Changelog:
+-Added better sprites for Magmortar, Weavile, Togekiss, Magnezone, and Yanmega
+-Weakened Whitney and Falkner's team
+
+Version 0.75 Changelog:
+-releveled Union Cave floor 2 and 3
+-releveled Camper Todd rematch
+
+Version 1.00 Changelog:
+-Releveled and Reattacked all of Elite 4 and Champion
+-Removed Weak Xatu from Elite Four Will's team and replaced with Alakazam
+-Removed Ariados from Elite Four Koga's team and replaced with Tentacruel
+-Removed Bruno's Hitmontop and replaced with Primeape
+-Removed Bruno's Hitmonchan and replaced with Heracross
+-Removed Bruno's Onix and replaced with Steelix
+-Removed Karen's Murkrow and replaced with Honchkrow
+
+Version 1.01 Changelog:
+-Replaced Koga's Venomoth with Yanmega
+
+Version 1.02 Changelog
+-Replaced hidden item Max Potion on Route 42 with a Moon Stone
+
+Version 1.03 Changelog
+-Fixed coloring bug on Togekiss
+-Fixed bug where Swimmer Breke sends out a Yanmega
+-Replaced Female Rocket Executive's Murkrow with a Honchkrow
+-Redesigned and recolored Garchomps front and back sprite (except for Garchomp back shiny).
+
+Version 1.04 Changelog
+-Fixed coloring bug on Mamoswine
+-Recolored Mamoswine
+-Remade and recolored Magnezone backsprites
+-Lowered wild pkmn levels in Union Cave(2)
+
+Version 1.05 Changelog
+-Fixed bug where game freezes 4th Rocket Grunt on Radio Tower(2) sends out his last Muk
+
+Version 1.06 Changelog
+-Fixed bug where game freezes when 3rd Rocket Grunt on Radio Tower(3) sends out his Weezing
+-Resprited Garchomp's backsprite
+
+Version 1.07 Changelog
+-Resprited all sprites for Weavile, Garchomp, Gabite, Gible, Togekiss, Magnezone, Electivire
+-Replaced Heal Bell on Whitney's Miltank with Body Slam
+
+Version 1.08 Changelog
+-Fixed bug where TR Executives and Scientists do not play TR theme battle music
+
+Version 1.08.1 Changelog
+-Fixed bug with Gabite's sprite
+-Fixed bug where all extra pokemon introduced to the game have special defence of 119
+-Rebalanced Clair's team (Gyarados, Dragonite, Charizard, Kingdra, Kingdra, Garchomp)
+-Replaced Rhyperior Sprite

@@ -1,0 +1,20 @@
+Wild Pokemon Map
+
+x2AB35 = Sprout Tower
+x2B87C = Victory Road (2) -> x2B8AB
+End of Wild data = 2BEE2 -> 2BF11
+
+Insert 90 bytes
+Pointers that need to be changed:
+-Kanto Water Pkmn
+	Offset: x2BD43 + 5E = x2BDA1
+	Pointer Offset: x2A590-x2A592
+	Pointer Change: 21 43 7D -> 21 A1 7D
+-Special Pkmn data
+	Offset: x2BE1C + 5E = x2BE7A
+	Pointer Offset: x2A761-x2A763
+	Pointer Change:21 1C 7E -> 21 7A 7E
+-Good Rod Pkmn
+	Offset: x2BED9 + 5E = x2BF37
+	Pointer Offset: x2A779-x2A77B
+	Pointer Change: 21 D9 7E -> 21 37 7F
