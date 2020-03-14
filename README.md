@@ -12,4 +12,4 @@ My hack of pokemon silver to make it harder and more fun.
 - Some 3rd and 4th generation pokemon were added and replace some 2nd and 1st generation pokemon. See [Changed PKMN.txt](https://github.com/abhmul/pokemon-silver-hardened/blob/master/Changed%20PKMN.txt)
 - Available starters are Dratini, Larvitar, and Gible
 - Gym Leaders run variants of [Smogon](https://www.smogon.com/) strategies
-- Powerful trainers have genetically mutated their pokemon through artificial selection or other means
+- Powerful trainers have genetically mutated their pokemon through artificial selection or other means (expect to see some pokemon in battles that are evolved before their evolution level or that have moves that they normally can't learn)
