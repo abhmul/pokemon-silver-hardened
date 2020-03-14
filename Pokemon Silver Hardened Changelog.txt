@@ -167,6 +167,7 @@ Version 1.08 Changelog
 -Fixed bug where TR Executives and Scientists do not play TR theme battle music
 
 Version 1.08.1 Changelog
+BROKEN: Pokeballs don't work
 -Fixed bug with Gabite's sprite
 -Fixed bug where all extra pokemon introduced to the game have special defence of 119
 -Rebalanced Clair's team (Gyarados, Dragonite, Charizard, Kingdra, Kingdra, Garchomp)
@@ -174,3 +175,7 @@ Version 1.08.1 Changelog
 
 Version 1.09
 - Fixed bug with Gible's sprite
+
+Version 1.10
+- Revert to 1.08
+- Refix bug with Gible's sprite
